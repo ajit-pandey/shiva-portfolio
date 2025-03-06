@@ -1,5 +1,5 @@
-# Erol Bicer's Responsive Portfolio Website
-## Website URL: www.erolbicer.com
+# Shiva Pandey's Responsive Portfolio Website
+## Website URL: www.pandeyshiva.com
 
 - The design is based on [Bedimcode](https://github.com/bedimcode)
 - The resume is created on [FlowCV](https://flowcv.com/)
